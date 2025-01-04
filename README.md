@@ -1,54 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Name - README</title>
-</head>
-<body>
-    <h1>Project Name</h1>
-    
-    <h2>Description</h2>
-    <p>A brief overview of what the project is, its purpose, and how it works.</p>
+# Kurakani - Chat App
 
-    <h2>Features</h2>
-    <ul>
-        <li>Feature 1</li>
-        <li>Feature 2</li>
-        <li>Feature 3</li>
-    </ul>
+## Description
+Kurakani is a real-time chat application built using Kotlin. It allows users to connect, send messages, and engage in direct communication with others.
 
-    <h2>Installation</h2>
-    <h3>Prerequisites</h3>
-    <p>List of required software/tools (e.g., Android Studio, Kotlin).</p>
-    
-    <h3>Steps to install</h3>
-    <ol>
-        <li>Clone the repository:
-            <pre><code>git clone &lt;repo-url&gt;</code></pre>
-        </li>
-        <li>Open in IDE</li>
-        <li>Build and run the project</li>
-    </ol>
+## Features
+- Real-time messaging
+- User authentication
+- Private and group chats
+- Push notifications for new messages
 
-    <h2>Technologies Used</h2>
-    <ul>
-        <li>Kotlin</li>
-        <li>Android SDK</li>
-        <li>Firebase</li>
-    </ul>
+## Installation
 
-    <h2>Contributing</h2>
-    <ol>
-        <li>Fork the repo</li>
-        <li>Create a new branch</li>
-        <li>Commit changes and create a pull request</li>
-    </ol>
+### Prerequisites
+- Android Studio
+- Kotlin
 
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License.</p>
+### Steps to install
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mee-lan/Kurakani.git
+-Open the project in Android Studio.
+-Build and run the project.
+### Technologies Used
+-Kotlin
+-Jetpack Compose
+-Dagger Hilt
+-Coil
+-Firebase (for authentication and messaging)
 
-    <h2>Acknowledgements</h2>
-    <p>Credits or references to contributors and libraries used.</p>
-</body>
-</html>
+### Contributing
+Feel free to fork the repository and submit pull requests. Contributions are welcome!
+
+###License
+This project is licensed under the MIT License.
