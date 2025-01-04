@@ -31,5 +31,5 @@ Kurakani is a real-time chat application built using Kotlin. It allows users to 
 ### Contributing
 Feel free to fork the repository and submit pull requests. Contributions are welcome!
 
-###License
+### License
 This project is licensed under the MIT License.
